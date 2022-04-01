@@ -1,35 +1,3 @@
-<p align="left">
-  <a ><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
-</p>
-
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/hakxcore/Termux-snippets/main/media/termux-snippets.png"/></p>
-
-<div align='center'>
-<a href="https://github.com/hakxcore/followers"><img title="Followers" src="https://img.shields.io/github/followers/hakxcore?color=2eb2ff&style=flat-square"></a>
-<a href="https://github.com/hakxcore/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/hakxcore/Termux-snippets?color=2eb2ff&style=flat-square"></a>
-<a href="#"><img title="Termux-snippets" src="https://img.shields.io/badge/-%20TERMUXSNIPPETS-green%3FcolorA%3D%2523ff0000%26colorB%3D%2523017e40"></a>
-<a href="https://github.com/hakxcore/Termux-snippets/issues"><img src="https://img.shields.io/github/issues/hakxcore/Termux-snippets?color=2eb2ff&style=flat-square" alt="Issues Badge"/></a>
-<a href="https://github.com/hakxcore/Termux-snippets/blob/master/LICENSE"><img src="https://img.shields.io/github/license/hakxcore/Termux-snippets?color=2eb2ff&style=flat-square" alt="License Badge"/></a></p>
-</div>
-<p align="center">
-  <a href="https://github.com/hakxcore"><img title="Author" src="https://img.shields.io/badge/Author-mukesh%20kumar-2eb2ff.svg?style=for-the-badge&logo=github"></a>
-</p>
-
-<p>
-  <a style="margin-right: 10px;" href="https://github.com/hakxcore/termux-snippets#Tools">
-    <img src="https://dabuttonfactory.com/button.png?t=READ TOOLS&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=2eb2ff">
-  </a>
-  <a style="margin-right: 10px;" href="https://github.com/hakxcore/termux-snippets#installation">
-    <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=2eb2ff">
-  </a>
-  <a href="https://github.com/hakxcore/termux-snippets#DEMO">
-    <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=2eb2ff">
-  </a>
-</p>
-
-
 # Tools
 <details>
 <summary>Cheat</summary>
@@ -831,7 +799,7 @@ Also can show the current moon phase
 For installation copy these commands
     
 ```bash
- git clone https://github.com/hakxcore/termux-snippets; cd termux-snippets; ./install; termux-snippets
+ git clone https://github.com/Transmetal/termux-snippets; cd termux-snippets; ./install; termux-snippets
 ```
  After installation write any tool's name on terminal you will get its funtionalty.
     
@@ -848,74 +816,3 @@ For uninstallation execute uninstall file using bash or copy this command.
 
 </br>
 </br>
-  
-## DEMO 
-  
-[![asciicast](https://asciinema.org/a/467810.svg)](https://asciinema.org/a/467810)
-  
-  
-    
-</br>
-    
-## API's USED
-
-<details>
-<summary>All API's</summary>
-
-* To get location based on ip address: [ipinfo](https://ipinfo.io)
-* To get and print weather based on a location: [wttr](http://wttr.in)
-* To grab the latest exchange rate between currencies: [fixer](http://fixer.io)
-* To grab information on movies: [omdbapi](http://www.omdbapi.com/)
-* To grab the information about COVID-19 country wise: [covidinfo](https://corona-stats.online)
-* To grab the information about COVID-19 about whole world: [covidinfo](covid19.trackercli.com)
-* To grab the information about COVID-19 about your country: [covidinfo](snf-878293.vm.okeanos.grnet.gr)
-* To determine masked link behind url shortner: [ki.tc](http://ki.tc)
-* To grab cheatsheets for commands and languages: [cheat](http://cheat.sh/)
-* To encode text into a qr code: [qrenco](http://qrenco.de)
-* To get the gifs on terminal used api is: [gif](e.xec.sh/)
-* To get your jukebox here we used api is: [jukebox](telehack.com)
-* To get your WAN ip address: [ipify](https://www.ipify.org/)
-* To get latese news on terminal api used for it: [news](getnews.tech)
-* To grab the latest exchange rate between cryptocurrencies to standard currencies: [coinmarketcap](https://coinmarketcap.com/api/)
-* To transfer files: [transfer](https://transfer.sh)
-* To grab lyrics from a song: [lyrics.ovh](http://docs.lyricsovh.apiary.io)
-* To generate memes: [MemeGen](https://memegen.link)
-* To get a chart of the top 10 cryptocurrencies: [rate.sx](http://rate.sx)
-
-</details>
-
-</br> 
-
-## DONATE
-If this project helped you in any way and you feel like supporting me
-
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/38Q5VbH63MtouxHu8BuPNLzfY5B5RNVMDn)](https://en.cryptobadges.io/donate/38Q5VbH63MtouxHu8BuPNLzfY5B5RNVMDn)
-  
-
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/0xf7c60C06D298FF954917eA45206426f79d40Ac9D)](https://en.cryptobadges.io/donate/0xf7c60C06D298FF954917eA45206426f79d40Ac9D)
-  
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/LWZ3T19YUk66dgkczN7dRhiXDMqSYrXUV4)](https://en.cryptobadges.io/donate/LWZ3T19YUk66dgkczN7dRhiXDMqSYrXUV4)
-#### Inspired by: [Bash-Scripts](https://github.com/alexanderepstein/Bash-Snippets)  
-<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/hakxcore"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hakxcore" /></a>
-
-
-</br>
-</br>
-</br>
-  
-## LICENSE
-
-GNU 3.0 License
-
-Copyright (c) 2021 [Hakxcore](https://github.com/hakxcore)
-
-Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
-  
-All rights granted under this License are granted for the term of copyright on the Program, and are irrevocable provided the stated conditions are met.  This License explicitly affirms your unlimited permission to run the unmodified Program.  The output from running a covered work is covered by this License only if the output, given its content, constitutes a covered work.  This License acknowledges your rights of fair use or other equivalent, as provided by copyright law.
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-  
-</br>
-</br> 
- 
-### Show some love by leaving a 🌟
